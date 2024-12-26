@@ -1,23 +1,10 @@
 * * Minesweeper Game * *
-Welcome to Minesweeper! This project is a modern implementation of the classic logic-based puzzle game. Challenge your problem-solving skills as you uncover safe cells and strategically flag hidden bombs. Built with HTML, CSS, and JavaScript, this interactive game offers a clean design, smooth animations, and engaging gameplay mechanics.
 
-🚀 Features
-Dynamic Grid Generation: Generates a 10x10 game board with randomly placed bombs.
-Timer and Flag Counter: Tracks game time and remaining flags in real-time.
-Winning and Losing Conditions:
-Win by flagging all bombs or revealing all non-bomb cells.
-Lose when uncovering a bomb.
-Intuitive Controls:
-Left-click to reveal cells.
-Right-click to flag or unflag cells.
-Responsive Design: Fully optimized for desktop and mobile devices.
-Stylish Animations: Includes bomb explosion effects, confetti, and domino reveals for adjacent cells.
+Welcome to Minesweeper! 
 
-
-Here’s a professional and informative README.md for your Minesweeper project:
-
-Minesweeper Game
-Welcome to Minesweeper! This project is a modern implementation of the classic logic-based puzzle game. Challenge your problem-solving skills as you uncover safe cells and strategically flag hidden bombs. Built with HTML, CSS, and JavaScript, this interactive game offers a clean design, smooth animations, and engaging gameplay mechanics.
+This project is a modern implementation of the classic logic-based puzzle game. 
+Challenge your problem-solving skills as you uncover safe cells and strategically flag hidden bombs. 
+Built with HTML, CSS, and JavaScript, this interactive game offers a clean design, smooth animations, and engaging gameplay mechanics.
 
 🚀 Features
 Dynamic Grid Generation: Generates a 10x10 game board with randomly placed bombs.
